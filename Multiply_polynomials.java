@@ -152,3 +152,17 @@ public static void main(String args[])
 }
 
 }
+
+/*  
+
+Output:
+
+
+
+1st Polynomial:- 3x^2 + 5x^1 + 6
+
+2nd Polynomial:- 6x^1 + 8
+
+Resultant Polynomial:- 18x^3 + 54x^2 + 76x^1 + 48
+
+*/
